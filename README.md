@@ -1,7 +1,7 @@
 # flutter_app
-flutter doctor
-flutter sdk-path
-flutter devices
-flutter create myapp
-cd myapp/
-flutter run
+flutter doctor <br>
+flutter sdk-path <br>
+flutter devices <br>
+flutter create myapp <br>
+cd myapp/ <br>
+flutter run 
