@@ -4,7 +4,15 @@ flutter sdk-path <br>
 flutter devices <br>
 flutter create myapp <br>
 cd myapp/ <br>
-flutter run 
+flutter run <br>
+
+
+flutter clean <br>
+dart pub cache clean <br>
+flutter pub upgrade <br>
+flutter pub outdated <br>
+flutter pub upgrade --major-versions <br>
+
 
 --------------------------------------------------------------
 ==============================================================
